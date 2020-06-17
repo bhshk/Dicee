@@ -6,3 +6,6 @@ An app that can randomize anything you imagine by rolling two six-sided dice.
 # Demonstrated
 - Creating IBActions to display code output, and IBOutlets to interact with UI Elements
 - Randomly cycling through imageliteral elements contained in an array
+
+## Acknowledgments
+Built using concepts taught in Angela Yu's [iOS App Development Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
