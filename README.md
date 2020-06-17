@@ -1,7 +1,7 @@
 <h1 align="center"> Dicee </h1>
 
 <p align="center">
-<img width="256" height="256" img src="https://user-images.githubusercontent.com/67071345/84956343-d3f37500-b0ad-11ea-862f-34e0fb054a48.png">
+<img width="150" height="150" img src="https://user-images.githubusercontent.com/67071345/84956343-d3f37500-b0ad-11ea-862f-34e0fb054a48.png">
 </p>
 
 <p align="center">
